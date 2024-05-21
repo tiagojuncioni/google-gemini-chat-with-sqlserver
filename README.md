@@ -2,6 +2,11 @@
 Chat with Sql Server using google gemini generative ai
 
 ![App Screenshot](https://github.com/leodeveloper/google-gemini-chat-with-sqlserver/blob/main/GoogleGenerativeAIGetAllRecordsOfCustomer.png)
+![App Screenshot](https://github.com/leodeveloper/google-gemini-chat-with-sqlserver/blob/main/GoogleGenerativeAIGetCustomerNotCustomerId.png)
+![App Screenshot](https://github.com/leodeveloper/google-gemini-chat-with-sqlserver/blob/main/GoogleGenerativeAIGetCustomerOrder.png)
+![App Screenshot](https://github.com/leodeveloper/google-gemini-chat-with-sqlserver/blob/main/GoogleGenerativeAIGetCustomerWithAmount.png)
+![App Screenshot](https://github.com/leodeveloper/google-gemini-chat-with-sqlserver/blob/main/GoogleGenerativeAIGetWithCustomerId.png)
+
 
 # Google Generative AI Gemini App to Retrieve Data from SQL Server
 
