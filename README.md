@@ -1,6 +1,8 @@
 # google-gemini-chat-with-sqlserver
 Chat with Sql Server using google gemini generative ai
 
+![App Screenshot](https://github.com/leodeveloper/google-gemini-chat-with-sqlserver/blob/main/GoogleGenerativeAIGetAllRecordsOfCustomer.png)
+
 # Google Generative AI Gemini App to Retrieve Data from SQL Server
 
 This repository contains the source code for the Google Generative AI Gemini App, designed to retrieve data directly from a SQL Server database. The application leverages Google Generative AI to provide intelligent querying and data retrieval capabilities.
