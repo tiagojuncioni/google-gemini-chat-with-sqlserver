@@ -76,7 +76,7 @@ prompt=[
 
 ## Streamlit App
 
-st.set_page_config(page_title="I can Retrieve Any SQL query")
+st.set_page_config(page_title="Google Generative AI Gemini App to Retrieve Data from SQL Server directly")
 st.header("Google Generative AI Gemini App to Retrieve Data from SQL Server directly")
 
 
