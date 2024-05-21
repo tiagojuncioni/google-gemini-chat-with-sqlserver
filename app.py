@@ -23,10 +23,10 @@ def get_gemini_response(question,prompt):
 def read_sql_query(query):
 
     # Connection variables
-    server = ''
-    database = ''
-    username = ''
-    password = ''
+    server = st.session_state["Host"]
+    database = st.session_state["Database"]
+    username = st.session_state["User"]
+    password = st.session_state["Password"]
     
     # Connection string
     cnxn = po.connect('DRIVER={ODBC Driver 18 for SQL Server};SERVER=' +
